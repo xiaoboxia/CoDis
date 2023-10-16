@@ -12,7 +12,7 @@ The sample selection approach is popular in learning with noisy labels. The stat
 
 
 ## Dependencies
-we implement our methods by PyTorch. The environment is as bellow:
+We implement our methods by PyTorch. The environment is as bellow:
 - [Ubuntu 16.04 Desktop](https://ubuntu.com/download)
 - [PyTorch](https://PyTorch.org/), version >= 0.4.1
 - [CUDA](https://developer.nvidia.com/cuda-downloads), version >= 9.0
